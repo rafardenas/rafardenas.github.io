@@ -20,7 +20,7 @@ permalink: none
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Rafardenas' Blog"
+title: "Docs of curiosity"
 description: "Personal Blog"
 author: "Rafael Cardenas"
 
