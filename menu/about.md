@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-My Name is Rafael Cardenas, at the moment I am a student of Chemical Engineering. 
+Hi! My name is Rafael, I am a Chemical Engineering student. At the moment I am a research assistant at Imperial College London, I have the fortune of working with professor [Antonio Del Rio](https://www.imperial.ac.uk/people/a.del-rio-chanona).
+Broadly, I am interested in Machine Learning, specifically, I am currently working on Reinforcement Learning for control of chemical processes.
 
-My main interests are Machine Learning, Natural Language Processing and Applied Mathematics. Currently learning a lot about the latter on an internship in Germany.
-
-This website serves as a vehicle to share my (hopefully interesting) ideas and in the process state them well. 
-I highly encourage feedback and criticism, please, don't hesitate contacting me about any matter.
+Hope you find my thoughs and posts interesting, see you around!

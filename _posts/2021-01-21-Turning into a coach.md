@@ -14,7 +14,7 @@ We can control the Nitrate inflow rate.
 
 Our objective is defined as:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d6ae2d6-35cf-4923-b234-ed1e3c90b5a2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d6ae2d6-35cf-4923-b234-ed1e3c90b5a2/Untitled.png)
+![Plot1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d6ae2d6-35cf-4923-b234-ed1e3c90b5a2/Untitled.png "Plot1")
 
 We want to minimize waste (nitrate N) while maximizing concentration of biomass (x) (mazimisation of productivity)
 
